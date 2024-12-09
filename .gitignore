@@ -81,4 +81,9 @@ venv
 .idea
 alembic/version/
 alembic.ini
+**/__pycache__/
+.env
+
+
+
 
