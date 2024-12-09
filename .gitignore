@@ -79,7 +79,7 @@ fabric.properties
 
 venv
 .idea
-alembic/version/
+alembic
 alembic.ini
 **/__pycache__/
 .env
